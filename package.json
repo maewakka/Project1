@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maewakka/Project1.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maewakka/Project1/issues"
+  },
+  "homepage": "https://github.com/maewakka/Project1#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
